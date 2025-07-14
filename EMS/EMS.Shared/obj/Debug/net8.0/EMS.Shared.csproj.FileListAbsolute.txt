@@ -1,0 +1,11 @@
+D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\bin\Debug\net8.0\EMS.Shared.deps.json
+D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\bin\Debug\net8.0\EMS.Shared.dll
+D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\bin\Debug\net8.0\EMS.Shared.pdb
+D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\obj\Debug\net8.0\EMS.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\obj\Debug\net8.0\EMS.Shared.AssemblyInfoInputs.cache
+D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\obj\Debug\net8.0\EMS.Shared.AssemblyInfo.cs
+D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\obj\Debug\net8.0\EMS.Shared.csproj.CoreCompileInputs.cache
+D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\obj\Debug\net8.0\EMS.Shared.dll
+D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\obj\Debug\net8.0\refint\EMS.Shared.dll
+D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\obj\Debug\net8.0\EMS.Shared.pdb
+D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\obj\Debug\net8.0\ref\EMS.Shared.dll
