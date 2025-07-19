@@ -139,10 +139,11 @@ D:\programming\Backend\Blazor\Projects\EMS\EMS.API\obj\Debug\net8.0\staticwebass
 D:\programming\Backend\Blazor\Projects\EMS\EMS.API\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\programming\Backend\Blazor\Projects\EMS\EMS.API\obj\Debug\net8.0\staticwebassets.development.json
 D:\programming\Backend\Blazor\Projects\EMS\EMS.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\programming\Backend\Blazor\Projects\EMS\EMS.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\programming\Backend\Blazor\Projects\EMS\EMS.API\obj\Debug\net8.0\EMS.API.csproj.Up2Date
 D:\programming\Backend\Blazor\Projects\EMS\EMS.API\obj\Debug\net8.0\EMS.API.dll
 D:\programming\Backend\Blazor\Projects\EMS\EMS.API\obj\Debug\net8.0\refint\EMS.API.dll
 D:\programming\Backend\Blazor\Projects\EMS\EMS.API\obj\Debug\net8.0\EMS.API.pdb
 D:\programming\Backend\Blazor\Projects\EMS\EMS.API\obj\Debug\net8.0\EMS.API.genruntimeconfig.cache
 D:\programming\Backend\Blazor\Projects\EMS\EMS.API\obj\Debug\net8.0\ref\EMS.API.dll
+D:\programming\Backend\Blazor\Projects\EMS\EMS.API\obj\Debug\net8.0\EMS.API.sourcelink.json
+D:\programming\Backend\Blazor\Projects\EMS\EMS.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

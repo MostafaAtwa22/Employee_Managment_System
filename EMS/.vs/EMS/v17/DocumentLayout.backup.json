@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\Migrations\\20250714224434_SeedNewData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EMS.API\\Migrations\\20250714224434_SeedNewData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30EE35D3-0509-4894-8C79-B452EA9F0146}|EMS.WASM\\EMS.WASM.csproj|d:\\programming\\backend\\blazor\\projects\\ems\\ems.wasm\\components\\pages\\createorupdateemployee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EE35D3-0509-4894-8C79-B452EA9F0146}|EMS.WASM\\EMS.WASM.csproj|solutionrelative:ems.wasm\\components\\pages\\createorupdateemployee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE53D43F-C39C-4974-B839-22E9EF61EDC4}|EMS.API\\EMS.API.csproj|d:\\programming\\backend\\blazor\\projects\\ems\\ems.api\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE53D43F-C39C-4974-B839-22E9EF61EDC4}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30EE35D3-0509-4894-8C79-B452EA9F0146}|EMS.WASM\\EMS.WASM.csproj|d:\\programming\\backend\\blazor\\projects\\ems\\ems.wasm\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE35D3-0509-4894-8C79-B452EA9F0146}|EMS.WASM\\EMS.WASM.csproj|solutionrelative:ems.wasm\\components\\pages\\home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\Migrations\\20250714221553_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EMS.API\\Migrations\\20250714221553_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30EE35D3-0509-4894-8C79-B452EA9F0146}|EMS.WASM\\EMS.WASM.csproj|d:\\programming\\backend\\blazor\\projects\\ems\\ems.wasm\\components\\pages\\createorupdateemployee.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE35D3-0509-4894-8C79-B452EA9F0146}|EMS.WASM\\EMS.WASM.csproj|solutionrelative:ems.wasm\\components\\pages\\createorupdateemployee.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE53D43F-C39C-4974-B839-22E9EF61EDC4}|EMS.API\\EMS.API.csproj|d:\\programming\\backend\\blazor\\projects\\ems\\ems.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE53D43F-C39C-4974-B839-22E9EF61EDC4}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30EE35D3-0509-4894-8C79-B452EA9F0146}|EMS.WASM\\EMS.WASM.csproj|d:\\programming\\backend\\blazor\\projects\\ems\\ems.wasm\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE35D3-0509-4894-8C79-B452EA9F0146}|EMS.WASM\\EMS.WASM.csproj|solutionrelative:ems.wasm\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE53D43F-C39C-4974-B839-22E9EF61EDC4}|EMS.API\\EMS.API.csproj|d:\\programming\\backend\\blazor\\projects\\ems\\ems.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AE53D43F-C39C-4974-B839-22E9EF61EDC4}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AE53D43F-C39C-4974-B839-22E9EF61EDC4}|EMS.API\\EMS.API.csproj|d:\\programming\\backend\\blazor\\projects\\ems\\ems.api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE53D43F-C39C-4974-B839-22E9EF61EDC4}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E4C78DC-8392-48DB-876E-5019FBDF5CEF}|EMS.WASM\\EMS.WASM.csproj|d:\\programming\\backend\\blazor\\projects\\ems\\ems.wasm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E4C78DC-8392-48DB-876E-5019FBDF5CEF}|EMS.WASM\\EMS.WASM.csproj|solutionrelative:ems.wasm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30EE35D3-0509-4894-8C79-B452EA9F0146}|EMS.WASM\\EMS.WASM.csproj|d:\\programming\\backend\\blazor\\projects\\ems\\ems.wasm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EE35D3-0509-4894-8C79-B452EA9F0146}|EMS.WASM\\EMS.WASM.csproj|solutionrelative:ems.wasm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE53D43F-C39C-4974-B839-22E9EF61EDC4}|EMS.API\\EMS.API.csproj|d:\\programming\\backend\\blazor\\projects\\ems\\ems.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE53D43F-C39C-4974-B839-22E9EF61EDC4}|EMS.API\\EMS.API.csproj|solutionrelative:ems.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80936B19-AC45-474C-96F8-742600DE3390}|EMS.Shared\\EMS.Shared.csproj|d:\\programming\\backend\\blazor\\projects\\ems\\ems.shared\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80936B19-AC45-474C-96F8-742600DE3390}|EMS.Shared\\EMS.Shared.csproj|solutionrelative:ems.shared\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30EE35D3-0509-4894-8C79-B452EA9F0146}|EMS.WASM\\EMS.WASM.csproj|d:\\programming\\backend\\blazor\\projects\\ems\\ems.wasm\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30EE35D3-0509-4894-8C79-B452EA9F0146}|EMS.WASM\\EMS.WASM.csproj|solutionrelative:ems.wasm\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,45 +38,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250714224434_SeedNewData.cs",
-              "DocumentMoniker": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\Migrations\\20250714224434_SeedNewData.cs",
-              "RelativeDocumentMoniker": "EMS.API\\Migrations\\20250714224434_SeedNewData.cs",
-              "ToolTip": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\Migrations\\20250714224434_SeedNewData.cs",
-              "RelativeToolTip": "EMS.API\\Migrations\\20250714224434_SeedNewData.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CreateOrUpdateEmployee.razor.cs",
+              "DocumentMoniker": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.WASM\\Components\\Pages\\CreateOrUpdateEmployee.razor.cs",
+              "RelativeDocumentMoniker": "EMS.WASM\\Components\\Pages\\CreateOrUpdateEmployee.razor.cs",
+              "ToolTip": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.WASM\\Components\\Pages\\CreateOrUpdateEmployee.razor.cs",
+              "RelativeToolTip": "EMS.WASM\\Components\\Pages\\CreateOrUpdateEmployee.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T22:44:34.479Z",
+              "WhenOpened": "2025-07-19T18:01:02.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrUpdateEmployee.razor",
+              "DocumentMoniker": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.WASM\\Components\\Pages\\CreateOrUpdateEmployee.razor",
+              "RelativeDocumentMoniker": "EMS.WASM\\Components\\Pages\\CreateOrUpdateEmployee.razor",
+              "ToolTip": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.WASM\\Components\\Pages\\CreateOrUpdateEmployee.razor",
+              "RelativeToolTip": "EMS.WASM\\Components\\Pages\\CreateOrUpdateEmployee.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T16:54:12.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EMS.API\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EMS.API\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:45:57.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Seed.cs",
-              "DocumentMoniker": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\Data\\Seed.cs",
-              "RelativeDocumentMoniker": "EMS.API\\Data\\Seed.cs",
-              "ToolTip": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\Data\\Seed.cs",
-              "RelativeToolTip": "EMS.API\\Data\\Seed.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBMAAAAiAAAAAAAAAA==",
+              "Title": "Home.razor.cs",
+              "DocumentMoniker": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.WASM\\Components\\Pages\\Home.razor.cs",
+              "RelativeDocumentMoniker": "EMS.WASM\\Components\\Pages\\Home.razor.cs",
+              "ToolTip": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.WASM\\Components\\Pages\\Home.razor.cs",
+              "RelativeToolTip": "EMS.WASM\\Components\\Pages\\Home.razor.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAgwHoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T22:19:43.977Z",
+              "WhenOpened": "2025-07-19T16:36:45.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250714221553_Initial.cs",
-              "DocumentMoniker": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\Migrations\\20250714221553_Initial.cs",
-              "RelativeDocumentMoniker": "EMS.API\\Migrations\\20250714221553_Initial.cs",
-              "ToolTip": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\Migrations\\20250714221553_Initial.cs",
-              "RelativeToolTip": "EMS.API\\Migrations\\20250714221553_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.WASM\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EMS.WASM\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.WASM\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EMS.WASM\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T22:15:53.615Z",
+              "WhenOpened": "2025-07-19T18:19:14.238Z",
               "EditorCaption": ""
             },
             {
@@ -91,61 +113,22 @@
               "RelativeDocumentMoniker": "EMS.WASM\\Program.cs",
               "ToolTip": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.WASM\\Program.cs",
               "RelativeToolTip": "EMS.WASM\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T22:15:23.875Z",
+              "WhenOpened": "2025-07-19T18:21:07.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\Program.cs",
-              "RelativeDocumentMoniker": "EMS.API\\Program.cs",
-              "ToolTip": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\Program.cs",
-              "RelativeToolTip": "EMS.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T22:11:46.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\appsettings.json",
-              "RelativeDocumentMoniker": "EMS.API\\appsettings.json",
-              "ToolTip": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\appsettings.json",
-              "RelativeToolTip": "EMS.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-14T22:10:59.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "EMS.API\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.API\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "EMS.API\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T21:59:56.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.Shared\\Employee.cs",
-              "RelativeDocumentMoniker": "EMS.Shared\\Employee.cs",
-              "ToolTip": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.Shared\\Employee.cs",
-              "RelativeToolTip": "EMS.Shared\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T21:41:54.696Z",
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.WASM\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "EMS.WASM\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\programming\\Backend\\Blazor\\Projects\\EMS\\EMS.WASM\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "EMS.WASM\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T16:35:32.843Z",
               "EditorCaption": ""
             }
           ]

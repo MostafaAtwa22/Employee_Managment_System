@@ -9,3 +9,4 @@ D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\obj\Debug\net8.0\EMS.Share
 D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\obj\Debug\net8.0\refint\EMS.Shared.dll
 D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\obj\Debug\net8.0\EMS.Shared.pdb
 D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\obj\Debug\net8.0\ref\EMS.Shared.dll
+D:\programming\Backend\Blazor\Projects\EMS\EMS.Shared\obj\Debug\net8.0\EMS.Shared.sourcelink.json

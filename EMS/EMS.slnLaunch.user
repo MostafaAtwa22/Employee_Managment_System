@@ -4,11 +4,13 @@
     "Projects": [
       {
         "Path": "EMS.WASM\\EMS.WASM.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": "https"
       },
       {
         "Path": "EMS.API\\EMS.API.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": "https"
       }
     ]
   }

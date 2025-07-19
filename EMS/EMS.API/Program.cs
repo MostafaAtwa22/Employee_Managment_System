@@ -1,9 +1,7 @@
 
 using EMS.API.Data;
+using EMS.API.Services;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using System.Security.Principal;
-
 namespace EMS.API
 {
     public class Program
@@ -17,6 +15,8 @@ namespace EMS.API
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
+            
+            builder.Services.AddScoped<IEmployeeService, EmployeeService>();
 
             builder.Services.AddSwaggerGen();
             var constr = builder.Configuration.GetConnectionString("Default")

@@ -1,7 +1,38 @@
 ﻿@page "/"
+@using EMS.API.Dtos
+@using EMS.WASM.Services
+@inject IEmployeeDataService EmployeeService
+@inject IDialogService DialogService
+@rendermode InteractiveServer
 
-<PageTitle>Home</PageTitle>
 
-<h1>Hello, world!</h1>
+<h2 class="text-center"> 
+    Employee Management System
+</h2>
 
-Welcome to your new app.
+<MudDataGrid @ref="dataGrid" T="EmployeeDto" ServerData="ServerReload" Filterable="false">
+    <ToolBarContent>
+        <MudButton
+            class="me-2"
+            @onclick="CreateNewEmployee"
+            Color="Color.Primary"
+            Variant="Variant.Filled"
+            StartIcon="@Icons.Material.Filled.PersonAddAlt">
+            Add New Employee
+        </MudButton>
+        <MudSpacer />
+        <MudTextField T="string" ValueChanged="@(s => OnSearch(s))" Placeholder="Search" Adornment="Adornment.Start"
+                      AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
+    </ToolBarContent>
+    <Columns>
+        <PropertyColumn Property="x => x.EmployeeIdField" Title="Employee Id" />
+        <PropertyColumn Property="x => x.Name" Title="Name"/>
+        <PropertyColumn Property="x => x.Department" Title="Department"/>
+        <PropertyColumn Property="x => x.Age" Title="Age" Sortable="true" />
+        <PropertyColumn Property="x => x.PhoneNumber" Title="Phone Number" />
+        <PropertyColumn Property="x => x.DateOfBirth" Title="Date Of Birth" Format="dd MMMM yyyy" />
+    </Columns>
+    <PagerContent>
+        <MudDataGridPager T="EmployeeDto" />
+    </PagerContent>
+</MudDataGrid>

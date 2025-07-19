@@ -1,0 +1,55 @@
+﻿@using EMS.API.Dtos
+@inject ISnackbar Snackbar
+@inject IEmployeeDataService EmployeeService
+@inherits OwningComponentBase
+
+<EditForm Model="@model" OnValidSubmit="OnValidSubmit">
+    <DataAnnotationsValidator />
+    <MudDialog>
+        <DialogContent>
+            <MudGrid>
+                <MudItem xs="9">
+                    <MudTextField Variant="Variant.Outlined"
+                                  ShrinkLabel
+                                  Label="Name"
+                                  @bind-Value="@model.Name"
+                                  For="@(() => model.Name)"
+                                  Required="true" />
+                </MudItem>
+                <MudItem xs="3">
+                    <MudTextField Variant="Variant.Outlined"
+                                  ShrinkLabel
+                                  Label="Age"                                  
+                                  @bind-Value="@model.Age"
+                                  For="@(() => model.Age)"
+                                  Required="true" />
+                </MudItem>
+            </MudGrid>
+
+            <MudDatePicker Label="Date Of Birth"
+                           Variant="Variant.Outlined"
+                           ShrinkLabel
+                           @bind-Date="_date"
+                           Required="true" />
+
+            <MudTextField Variant="Variant.Outlined"
+                          ShrinkLabel
+                          Label="Department"
+                          @bind-Value="@model.Department"
+                          For="@(() => model.Department)"
+                          Required="true" />
+
+            <MudTextField Variant="Variant.Outlined"
+                          ShrinkLabel
+                          Label="Phone Number"
+                          @bind-Value="@model.PhoneNumber"
+                          For="@(() => model.PhoneNumber)"
+                          Required="true" />
+        </DialogContent>
+
+        <DialogActions>
+            <MudButton OnClick="Cancel" Color="Color.Secondary">Cancel</MudButton>
+            <MudButton ButtonType="ButtonType.Submit" Color="Color.Primary">Save</MudButton>
+        </DialogActions>
+    </MudDialog>
+</EditForm>

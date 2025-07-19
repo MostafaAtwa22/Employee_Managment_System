@@ -1,4 +1,7 @@
 using EMS.WASM.Components;
+using EMS.WASM.Services;
+using Microsoft.AspNetCore.Components.Server;
+using MudBlazor.Services;
 
 namespace EMS.WASM
 {
@@ -12,6 +15,16 @@ namespace EMS.WASM
             builder.Services.AddRazorComponents()
                 .AddInteractiveServerComponents();
 
+            builder.Services.Configure<CircuitOptions>(options =>
+            {
+                options.DetailedErrors = true;
+            });
+
+            builder.Services.AddMudServices();
+            builder.Services.AddHttpClient<IEmployeeDataService, EmployeeDataService>((sp, client) =>
+            {
+                client.BaseAddress = new Uri(sp.GetRequiredService<IConfiguration>()["Ip"]!);
+            });
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
